@@ -23,7 +23,5 @@ A Flask-based web app provides real-time, non-invasive PD prediction.
 
 ## ▶️ Run Locally
 ```bash
-git clone https://github.com/<your-username>/Parkinsons-Disease-Prediction.git
-cd Parkinsons-Disease-Prediction
-pip install -r requirements.txt
-python app.py
+git clone https://github.com/varshitha-2319/parkison-disease-detection_csv-data.git
+
